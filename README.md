@@ -3,5 +3,5 @@
 - author: Ayukt1(GitHub)
 - content-type: Microsoft Windows Application
 - company: none
-- helped-by: DecSoft: DecSoft's HTML Compiler
+- helped-by: DecSoft: DecSoft's HTML Compiler, Boostrap Stylesheet
 - license: CC BY-SA 4.0
