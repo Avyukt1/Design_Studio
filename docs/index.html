@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <style>
+        body {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        document.title = "Design Studio 1.1";
+        document.write('<div class="header"><h1>Design Studio</h1><label>Design Studio is a web developement tool to convert cool text into html code!<br>@copyright license CC BY-SA 4.0</label></div>');
+    </script>
+    <script src="functions.js"></script>
+    <div>
+        <label>Text to be displayed:</label>
+        <input type="text" class="form-control" id="txt"/>
+        <label>Font Size:</label>
+        <input type="number" id="fontsize" class="form-control"/>
+        <label>Color (use the html color tags):</label>
+        <input type="color" id="colour" class="form-control"/>
+        <label>Background Color:</label>
+        <input id="bgcolour" class="form-control" type="color"/>
+        <br>
+        <label>font:</label>
+        <input type="text" id="font" class="form-control"/>
+        <br>
+        <button onclick='create()' class="btn btn-info">create</button>
+    </div>
+    <p id="output"></p>
+    <p id="code"></p>
+</body>
+</html>
