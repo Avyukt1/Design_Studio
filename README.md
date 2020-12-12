@@ -11,3 +11,5 @@
 I will add more things in the next version 
 This is the second version of `Design Studio`
 If you want to suggest me, you can create an `issue`. And for suggestions with change in code, you can fork the repository  and create a `Pull Request`.
+
+# [Wiki](https://github.com/Avyukt1/Design_Studio/wiki/Design-Studio-Guide)
