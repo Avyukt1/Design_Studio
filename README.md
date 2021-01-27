@@ -1,6 +1,6 @@
 # Design_Studio
 ## Terms and Conditions
-### This is an app made by me for the Web Development help. Feel free to use it.
+This is an app made by me for the Web Development help. Feel free to use it.
 - author: [moreavy](https://github.com/moreavy)
 - content-type: Microsoft Windows Application
 - company: [Avour Utilities](https://moreavy.github.io/)
