@@ -1,4 +1,4 @@
-# Design_Studio
+# Design Studio
 ## Terms and Conditions
 This is an app made by me for the Web Development help. Feel free to use it.
 - author: [moreavy](https://github.com/moreavy)
