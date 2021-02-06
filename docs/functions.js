@@ -1,4 +1,4 @@
-function create() {
+let create = function () {
     var txt = document.getElementById('txt').value;
     var colour = document.getElementById('colour').value;
     var bgcolour = document.getElementById('bgcolour').value;
